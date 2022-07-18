@@ -1,4 +1,4 @@
-package sahisnu.code.cc.Jul17LT;
+package cc.Jul17LT;
 
 import java.util.Scanner;
 
