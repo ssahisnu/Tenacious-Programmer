@@ -90,8 +90,6 @@ public class NumberofMatchingSubsequences {
 
 //         // use hashmap - TC - 2^n if no collision
 
-
-
 // //------------------------------------------------------------------------------------------------------------//
 //     }
 
@@ -113,7 +111,6 @@ public class NumberofMatchingSubsequences {
 
 //         seqHolder.append(strArr[ind]);
 //         int take = matchSubseq(strArr, wordMap, seqHolder, ind+1);
-// // $$$$$$$$$$$$$$$$$$$$ Api for deleting in stringBuilder $$$$$$$$$$$$$$$$$$$$$$$
 //         seqHolder.deleteCharAt(seqHolder.length()-1);
 //         int notTake = matchSubseq(strArr, wordMap, seqHolder, ind+1);
 
