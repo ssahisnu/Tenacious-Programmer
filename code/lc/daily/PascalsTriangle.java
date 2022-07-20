@@ -31,7 +31,11 @@ public class PascalsTriangle {
         // 11
         // 121
         // 1331
-
+        
+        //If a single(nth) row needs to be printed instead of 1-n rows 
+        //Combination nCr
+        // n row and c is col; ***Important*** both row and col number start from 0
+        
 //----------------------------------------------------------------------------------------//
 
     }
