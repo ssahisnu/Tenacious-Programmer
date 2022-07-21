@@ -3,7 +3,7 @@ package dsa_sheet.striver.arrays01;
 //https://leetcode.com/problems/set-matrix-zeroes/submissions/
 
 /* -------    Intuition    -------
-  cant be solve it in a single loop as it leads to zero matrix,
+  cant be solved in a single iteration as it leads to zero matrix,
   Matrix first row and column can be used as a storage to say if a row/col is 0
   In that case we need two other booleans to know if the first row/col can be zero
   can be confusing when handling the boolean vars
