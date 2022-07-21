@@ -1,2 +1,3 @@
 # Tenacious-Programmer
-Various coding problems and solutions
+Coding problems and solutions
+  - Leetcode daily challenge
